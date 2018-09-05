@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/JefersonCEST/calc.svg?branch=master)](https://travis-ci.org/JefersonCEST/calc)
+[![Build Status](https://travis-ci.org/JefersonCEST/CalPY.svg?branch=master)](https://travis-ci.org/JefersonCEST/CalPY)
 
 #Calculadora em python
