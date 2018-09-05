@@ -1,0 +1,5 @@
+{
+  "test_calc.py::test_divi[2-3-0.666666666]": true,
+  "test_calc.py::test_divi[2-3-0.666666667]": true,
+  "test_calc.py::test_sub": true
+}
